@@ -1,4 +1,4 @@
-counter_culture
+Repository Moved
 ===============
 
-Moved to magnusvk/counter_culture
+This repository has been permanently moved to [magnusvk/counter_culture](https://github.com/magnusvk/counter_culture).
